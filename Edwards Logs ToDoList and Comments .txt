@@ -1,0 +1,44 @@
+----LOGS----
+
+11-19-2017
+Created the vbs file for voice until better solution is presented
+Created first interface module
+Created voice module
+Created first lines of dialog and response
+
+
+
+
+---To-Do List---
+
+Documentaition - will go back and document everything
+
+In vbs: 
+	Will create alternate options to manipulate standard voice with pitch, volume, and speed.
+
+In Interface: 
+	Begin building the find answer to question, in the loop created by the nextResponse Function
+	Title of the main window will not change???
+
+In StandardVoice: 
+	Figure out why command window covers program (literally why is it generating????)
+	
+NeuroNetowork:
+	Create this module.
+	Will be used as a dictionary to find answers when ask questions or to complete task when asked to do so.
+
+Logos:
+	Create Module.
+	Will be used for match and basic understanding (I.E. What is an Animal, What is a rock, Whats 2+2)
+
+Pathos:
+	Create Module.
+	How does it feel? (I.E. "touch this flame" response "that burns, physically i assume", "Ya mommas so ugly" Response "that also burns, but emotially")
+
+Ethos
+	Create Module.
+	Define what is the best action. (I.E. Don't kill creator. Do kill creators enemies)
+
+---Comments----
+
+None at the moment, just go crazy i guess.
